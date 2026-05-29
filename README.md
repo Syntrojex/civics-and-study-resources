@@ -9,7 +9,7 @@
 
 <br/>
 
-![](https://img.shields.io/badge/FAST%20NUCES-BS%20Computer%20Science-2563eb?style=for-the-badge)
+![](https://img.shields.io/badge/FAST%20NUCES-BS%20Software%20Engineering-2563eb?style=for-the-badge)
 ![](https://img.shields.io/badge/Subject-Civics%20%26%20Pakistan%20Studies-16a34a?style=for-the-badge)
 
 </div>
