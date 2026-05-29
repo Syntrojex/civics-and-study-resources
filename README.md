@@ -49,3 +49,13 @@
 4. Open locally in any PDF viewer
 
 ---
+
+<div align="center">
+
+*Shared for educational purposes only — All rights belong to respective authors*
+
+<br/>
+
+*If this helped your studies — drop a ⭐*
+
+</div>
