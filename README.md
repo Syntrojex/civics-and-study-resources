@@ -34,3 +34,15 @@
 
 ---
 
+---
+
+## 📌 Note
+
+Personal university study material compiled during coursework at **FAST NUCES**.
+Shared for educational purposes only.
+
+---
+
+<div align="center">
+<i>If this helped you — drop a ⭐</i>
+</div>
