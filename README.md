@@ -28,3 +28,15 @@
 | 4 | [The State and Its Elements](./The%20State%20and%20Its%20Elements.pdf) | State Theory |
 
 ---
+
+## 📝 Weekly Lecture Notes
+
+> Week-by-week notes from class lectures
+
+| Notes | Weeks Covered |
+|-------|--------------|
+| [Week 1, 3, 4, 5 Notes](./Week%201%2C3%2C4%2C5%20notes.pdf) | Week 1 · 3 · 4 · 5 |
+| [Week 6, 7, 8, 9, 10 Notes](./Week%206%2C7%2C8%2C9%2C10%20Notes.pdf) | Week 6 · 7 · 8 · 9 · 10 |
+| [Week 11, 12 Notes](./Week%2011%2C12%20notes.pdf) | Week 11 · 12 |
+
+---
