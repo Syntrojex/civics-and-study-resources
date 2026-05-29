@@ -25,7 +25,7 @@
 | 1 | [Ideology and Constitution of Pakistan](./Ideology%20and%20Constitution%20of%20Pakistan.pdf) | Ideology · Constitution |
 | 2 | [Introduction to Civics](./Introduction%20to%20Civics.pdf) | Civics Fundamentals |
 | 3 | [Modernity and Modernism](./Modernity%20and%20Modernism.pdf) | Modernity Concepts |
-| 4 | [The State and Its Elements](./The%20State%20and%20Its%20Elements.pdf) | State Theory |
+| 4 | [State and Its Elements](./State%20and%20Its%20Elements.pdf) | State Theory |
 
 ---
 
