@@ -40,3 +40,12 @@
 | [Week 11, 12 Notes](./Week%2011%2C12%20notes.pdf) | Week 11 · 12 |
 
 ---
+
+## 💡 How to Use
+
+1. Click any file link above
+2. GitHub will show "unable to render" for PDFs — that's normal
+3. Hit Download to get the PDF
+4. Open locally in any PDF viewer
+
+---
