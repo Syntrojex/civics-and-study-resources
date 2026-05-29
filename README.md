@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🇵🇰 Pakistan Studies Resources
+# Pakistan Studies Resources
 
 ### Civics & Community Engagement · Ideology of Pakistan
 
